@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkntpcai_elight=self.webpackChunkntpcai_elight||[]).push([[905],{905:(e,t,a)=>{e.exports=a.p+"static/media/4341.447b47caedf72230d4fa.mp3"}}]);
