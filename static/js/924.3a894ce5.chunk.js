@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkntpcai_elight=self.webpackChunkntpcai_elight||[]).push([[924],{924:(e,t,c)=>{e.exports=c.p+"static/media/frosty.5fbce5f4e549c15e8943.mp3"}}]);
