@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkntpcai_elight=self.webpackChunkntpcai_elight||[]).push([[560],{560:(e,c,t)=>{e.exports=t.p+"static/media/grinch.9c56f82e19888e05f57c.mp3"}}]);
